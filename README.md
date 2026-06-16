@@ -65,11 +65,6 @@
 
 ###
 
-<h2 align="left">⚡ mindset</h2>
 
-###
 
-<p align="left">
-  "i don't want to code more.<br>
-  i want to code less by automating more."
-</p>
+
